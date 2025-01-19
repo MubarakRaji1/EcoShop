@@ -1,65 +1,46 @@
-## EcoShop - Modern E-commerce Platform
+# Eco-Shop
 
-EcoShop is a full-featured e-commerce platform built with React, TypeScript, and Supabase, offering a seamless shopping experience.
+Welcome to **Eco-Shop**, your one-stop destination for eco-friendly products and sustainable living solutions. This platform is designed to promote environmentally conscious shopping and a greener lifestyle.
 
-### Features
+## Project Overview
+The **Eco-Shop** platform aims to:
+- Offer a curated selection of eco-friendly products.
+- Encourage sustainable living practices through accessible and affordable green solutions.
+- Provide a seamless and interactive online shopping experience.
 
-- 🛍️ Product browsing with advanced filtering
-- 🔍 Smart search functionality
-- 🛒 Shopping cart management
-- 💳 Secure checkout process
-- 👤 User authentication
-- ❤️ Wishlist functionality
-- 📱 Fully responsive design
+## Features
+- **Product Categories:** Wide range of eco-friendly products including:
+  - Reusable household items
+  - Biodegradable and compostable products
+  - Sustainable personal care items
+- **User-Friendly Interface:** Clean and intuitive design for easy navigation.
+- **Interactive Shopping Cart:** Add, remove, and manage items effortlessly.
+- **Eco-Tips Section:** Tips and resources for adopting a sustainable lifestyle.
 
-### Tech Stack
+## Technologies Used
+- **Frontend:** Built with **React** and styled using **Tailwind CSS** for a responsive and modern look.
+- **Backend:** Powered by **Node.js** and **Express** for efficient server-side operations.
+- **Database:** Integrated with **MongoDB** for secure and scalable data storage.
+- **Hosting:** Deployed on [Vercel](https://vercel.com) for fast and reliable performance.
 
-- React 18 with TypeScript
-- Tailwind CSS for styling
-- Supabase for backend
-- Zustand for state management
-- React Router for navigation
+## Getting Started
+To explore Eco-Shop:
+1. Visit: [eco-shop-ten.vercel.app](https://eco-shop-ten.vercel.app)
+2. Browse through the product categories and add your favorite items to the cart.
+3. Check out eco-tips to enhance your sustainable lifestyle journey.
 
-### Getting Started
+## Contact
+For questions, feedback, or collaborations, reach out to us via:
+- **Email:** rmbaba
+- **Phone:** +234 8081316671
+- **Social Media:**
+   [Twitter](https://x.com/Rinnetech)
+  - [LinkedIn](https://www.linkedin.com/in/rajimubarak123/)
+  - [Instagram](https://www.instagram.com/mubar.a.k/)
 
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up environment variables:
-   - Create a `.env` file
-   - Add Supabase credentials
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+---
 
-### Project Structure
-
-```
-src/
-├── components/     # Reusable UI components
-├── pages/         # Route pages
-├── hooks/         # Custom React hooks
-├── store/         # State management
-├── lib/           # Utilities and configurations
-└── types/         # TypeScript type definitions
-```
-
-### Authentication
-
-- Email/Password authentication
-- Protected routes for user-specific features
-- Profile management
-
-### Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-### License
-
-MIT License
+Thank you for choosing **Eco-Shop**. Together, let's make the planet greener, one purchase at a time!
