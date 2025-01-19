@@ -18,6 +18,9 @@ export function Home() {
             <p className="text-xl mb-8 text-blue-100">
               Discover our curated collection of sustainable and eco-friendly products
             </p>
+              <p className="text-xl mb-8 text-blue-100">
+              MADE WITH ❤️ BY MUBARAK RAJI
+            </p>
             <Link to="/products">
               <Button size="lg" className="bg-white text-blue-600 hover:bg-blue-50 gap-2">
                 Shop Now
